@@ -1,0 +1,5 @@
+git init
+git add
+git commit -m "评论"
+git remote add origin https://github.com/changdf/jscrawl_bg.git
+git push -u origin master
